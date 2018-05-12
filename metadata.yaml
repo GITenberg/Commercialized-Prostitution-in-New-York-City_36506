@@ -1,0 +1,41 @@
+_repo: Commercialized-Prostitution-in-New-York-City_36506
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Rockefeller, John D., Jr. (John Davison)
+    alias: Rockefeller, John D. (John Davison)
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '40262'
+    url: http://www.gutenberg.org/2009/agents/40262
+  contributor:
+    agent_name: Davis, Katharine Bement
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '44251'
+    url: http://www.gutenberg.org/2009/agents/44251
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kneeland, George J. (George Jackson)
+    alias: Kneeland, George Jackson
+    birthdate: 1872
+    gutenberg_agent_id: '38311'
+    url: http://www.gutenberg.org/2009/agents/38311
+description: ''
+gutenberg_issued: '2011-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36506'
+  lccn: '13011647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prostitution -- New York (State) -- New York'
+- !lcc 'HQ'
+title: Commercialized Prostitution in New York City
+url: http://www.gutenberg.org/ebooks/36506
